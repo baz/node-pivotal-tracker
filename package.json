@@ -1,0 +1,18 @@
+{
+  "name": "pivotal-tracker",
+  "description": "Pivotal Tracker API",
+  "version": "0.0.1",
+  "author": "Basil Shkara <basil@neat.io>",
+  "keywords": ["pivotal", "pivotaltracker", "tracker"],
+  "dependencies": {
+    "xml2js": ">=0.1.5",
+	"xmlbuilder": ">=0.0.6"
+  },
+  "main" : "lib/pivotal_tracker.js",
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "engines": {
+    "node": ">= 0.4.2"
+  }
+}
