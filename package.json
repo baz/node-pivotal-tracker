@@ -6,7 +6,7 @@
   "keywords": ["pivotal", "pivotaltracker", "tracker"],
   "dependencies": {
     "xml2js": ">=0.1.6",
-	"xmlbuilder": ">=0.0.6"
+	"xmlbuilder": ">=0.1.1"
   },
   "main" : "lib/pivotal_tracker.js",
   "directories" : {
